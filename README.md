@@ -92,7 +92,7 @@ Adversarial-Attacks-on-Traffic-Signs/
 
 ```bash
 # Clone the repository
-git clone https://github.com/benichi2022/Adversarial-Attacks-on-Traffic-Signs.git
+git clone https://github.com/benhurtekeste/Adversarial-Attacks-on-Traffic-Signs.git
 cd Adversarial-Attacks-on-Traffic-Signs
 
 # Create and activate a virtual environment (recommended)
