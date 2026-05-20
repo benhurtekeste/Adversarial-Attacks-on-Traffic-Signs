@@ -1,6 +1,6 @@
 # Adversarial Attacks on Traffic Signs
 
-An interactive web application for exploring adversarial robustness of deep learning models trained on traffic sign recognition. Upload a traffic sign image, apply state-of-the-art adversarial attacks, and inspect how subtle pixel perturbations fool a neural network — with real-time visualizations and quantitative metrics.
+An interactive web application for exploring adversarial robustness of deep learning models trained on traffic sign recognition. Upload a traffic sign image, apply state-of-the-art adversarial attacks, and inspect how subtle pixel perturbations fool a neural network with real-time visualizations and quantitative metrics.
 
 ---
 
